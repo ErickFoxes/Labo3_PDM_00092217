@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Labo03_PDM</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="share">Share</string>
+    <string name="send">send</string>
+</resources>
